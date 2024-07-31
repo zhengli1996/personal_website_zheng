@@ -99,12 +99,12 @@ export function Headline() {
       >
         <SocialLink
           href="https://www.instagram.com/connor.li1996/"
-          aria-label="我的 twitter"
+          aria-label="我的推特"
           platform="twitter"
         />
         <SocialLink
           href="connor.zheng.li@gmail.com"
-          aria-label="Email"
+          aria-label="我的邮箱"
           platform="mail"
         />
       </motion.div>
