@@ -99,13 +99,8 @@ export function Headline() {
       >
         <SocialLink
           href="https://www.instagram.com/connor.li1996/"
-          aria-label="Instagram"
+          aria-label="我的twitter"
           platform="twitter"
-        />
-        <SocialLink
-          href="https://cali.so/youtube"
-          aria-label="我的 YouTube"
-          platform="youtube"
         />
         <SocialLink
           href="connor.zheng.li@gmail.com"
