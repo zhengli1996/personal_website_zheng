@@ -99,7 +99,7 @@ export function Headline() {
       >
         <SocialLink
           href="https://www.instagram.com/connor.li1996/"
-          aria-label="我的twitter"
+          aria-label="我的 twitter"
           platform="twitter"
         />
         <SocialLink
