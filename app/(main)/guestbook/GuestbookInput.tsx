@@ -201,7 +201,7 @@ export function GuestbookInput() {
               message.length > 0 ? 'opacity-100' : 'opacity-0'
             )}
           >
-            支持 <b>Markdown</b> 与{' '}
+            Support <b>Markdown</b> and{' '}
             <RichLink
               favicon={false}
               href="https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"
