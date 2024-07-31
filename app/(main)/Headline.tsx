@@ -81,7 +81,7 @@ export function Headline() {
       >
         <Balancer>
           Hi, This is Zheng Li (李政）
-          <PeekabooLink href="https://zolplay.com">佐玩</PeekabooLink>
+          <PeekabooLink href="https://zolplay.com">Resume</PeekabooLink>
           I was born in Anhui, China back in 1996, Year of Mouse. In 2022, I obtained my PhD in Mechanical Engneering focused on computational mechanics and constitutive material modeling. 
           Now I work at Tesla as CAE Analysis Engineer, developing body and battery structures of Tesla Robotaxi and Refresh Model Y. I like coffee in the morning, whiskey at night.
         </Balancer>
