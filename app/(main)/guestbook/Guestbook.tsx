@@ -21,7 +21,7 @@ export function Guestbook(props: { messages?: GuestbookDto[] }) {
         <SignInButton mode="modal" redirectUrl={url(pathname).href}>
           <Button type="button">
             <UserArrowLeftIcon className="mr-1 h-5 w-5" />
-            Login to comment
+            Please login to leave your comment
           </Button>
         </SignInButton>
       </SignedOut>
