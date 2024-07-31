@@ -100,7 +100,7 @@ export function Headline() {
         <SocialLink
           href="https://www.instagram.com/connor.li1996/"
           aria-label="Instagram"
-          platform="Instagram"
+          platform="twitter"
         />
         <SocialLink
           href="https://cali.so/youtube"
